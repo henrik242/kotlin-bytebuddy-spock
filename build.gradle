@@ -20,9 +20,8 @@ dependencies {
     )
     testCompile (
         'org.spockframework:spock-core:1.1-groovy-2.4',
-        //'net.bytebuddy:byte-buddy:1.7.5',
-        'cglib:cglib-nodep:3.2.4',
-
+        'net.bytebuddy:byte-buddy:1.7.5',
+        //'cglib:cglib-nodep:3.2.4',
     )
 }
 
